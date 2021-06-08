@@ -1,2 +1,2 @@
 # prjTakeGo
-Take new Project onthe Go
+Take new Project on the Go
